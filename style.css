@@ -26,9 +26,12 @@
 button {
     background-color: black;
     color: white;
-    border: none;
     width: 100px;
     padding: 5px;
     border-radius: 5px;
     font-weight: 700;
+}
+
+.size-input {
+    padding: 5px;
 }
